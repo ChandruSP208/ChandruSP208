@@ -1,4 +1,5 @@
 ## Hi I'm CHANDRU S 👋
+<img src="https://github.com/ChandruSP208/ChandruSP208/issues/1#issue-963376500">
 <!--
 **ChandruSP208/ChandruSP208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
