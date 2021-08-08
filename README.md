@@ -1,6 +1,7 @@
 ## Hi I'm CHANDRU S 👋
 ![CHANDRU S](https://user-images.githubusercontent.com/85116730/128625801-9ac531ba-92df-48f4-abaf-6fc05327049b.png)
-# I'm software engineering,im good in java as well as FrontEnd developing.
+I'm software engineering,I'm good in java as well as FrontEnd develop.Creating technology💡 to elevate people and  building community🔍.
+TO Light🎄 for dark,not for shadows
 
 <!--
 **ChandruSP208/ChandruSP208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
