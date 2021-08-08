@@ -1,6 +1,5 @@
 ## Hi I'm CHANDRU S 👋
-<img src="![CHANDRU S](https://user-images.githubusercontent.com/85116730/128625247-efbbe8cd-e3f2-4348-bfa4-2569c2d5c01b.png)
-" alt="banner that says about Chandru">
+<img src="" alt="banner that says about Chandru">
 
 <!--
 **ChandruSP208/ChandruSP208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
