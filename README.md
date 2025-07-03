@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm CHANDRU S
 
-### 🎓 B.Tech in Information Technology | 💻 Software Engineer | 💡 Tech Enthusiast
+### 🎓 B.Tech in Information Technology | 💻 Senior Software Engineer | 💡 Tech Enthusiast
 
 ![CHANDRU S](https://user-images.githubusercontent.com/85116730/128625801-9ac531ba-92df-48f4-abaf-6fc05327049b.png)
 
 ---
 
 ### 🚀 About Me
-I’m a passionate **Software Engineer** with a Bachelor's degree in **Information Technology** from Karpagam College of Engineering, Coimbatore.
+I’m a passionate **Senior Software Engineer** with 3  plus years of experience with a Bachelor's degree in **Information Technology** from Karpagam College of Engineering, Coimbatore.
 
 I enjoy building scalable, clean, and user-friendly software solutions. My key focus is on **backend development using Java**, automating testing with modern tools, and crafting responsive **frontend interfaces** with **HTML, CSS, and JavaScript**.
 
